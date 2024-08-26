@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #A0937D ;
+}
+.Empezar{
+ display: flex;
+justify-content: center;
+}  
+.Empezar img{
+  width:500px;
+  margin:50px;
+}
+.Empezar p{
+font-size: 50px;
+font-weight: bold;
+color: #F6E6CB;
+}
+.enlace{
+  display: flex;
+  justify-content: center;
+  font-size:30px;
+  font-weight:negrita;
+  color: #553C8B;
+}
+.sub{
+font-size:30px;
+font-weight:bold;
+color:#536493;
+margin-left:38px;
+}
+.conten1{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.conten1 img{
+  width:500px;
+}
+.conten1 p{
+font-size: 30px;
+color:#FF7F3E;
+margin-left:50px;
+margin-right:50px;
+text-align:justify;
+}
